@@ -1,2 +1,2 @@
 # Practice
-Learning new things
+Practicing my HTML skill  
