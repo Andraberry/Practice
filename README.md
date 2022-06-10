@@ -1,2 +1,3 @@
 # Practice
-Practicing my HTML skill  
+
+Practicing my HTML skill
